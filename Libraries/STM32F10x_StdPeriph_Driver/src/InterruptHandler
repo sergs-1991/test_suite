@@ -1,0 +1,2 @@
+TIM1_UP_IRQHandler:
+  mov PC,LR
